@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	worktree = E:/
+	symlinks = false
+	ignorecase = true
+[gui]
+	wmstate = zoomed
+	geometry = 1061x563+160+160 233 255
